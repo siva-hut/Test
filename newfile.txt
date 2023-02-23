@@ -2,3 +2,4 @@
 remotechanges
 local changes
 new remote changes
+new local changes
